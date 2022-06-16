@@ -1,5 +1,5 @@
 <!-- rendisagala -->
-<img src="./src/banner1.png" />
+<img src="./src/banner.png" />
 <h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="400px"></h1>
 <h3 align="center">About Me :</h3>  
  <p>
