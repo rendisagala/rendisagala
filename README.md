@@ -45,8 +45,8 @@
 <h3> 🙌 Keen To Interact with Me? </h3>
 
 <p align="center">
-<a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rendisagala19@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://rendisagala.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rendisagala.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rendi-anjuma-sagala-a3b2421b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rendi Sagala-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/rendianjuma/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@rendianjuma-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:syedammarilyas@hotmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-rendisagala19@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://rendisagala.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rendisagala.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rendi-anjuma-sagala-a3b2421b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rendi Sagala-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/rendianjuma/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@rendianjuma-blue?style=flat-square&logo=instagram"></a>
 </p>
