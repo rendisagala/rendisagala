@@ -1,6 +1,6 @@
 <!-- rendisagala -->
 <img src="./src/banner1.png" />
-<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif"></h1>
+<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="400px"></h1>
 <h3 align="center">About Me :</h3>  
  <p>
 📚 Accounting Student.
@@ -42,8 +42,11 @@
 
 ![Snake animation](./src/github-contribution-grid-snake.svg)
 
-### Keen To Interact with Me? <br>
+<h3> 🙌 Keen To Interact with Me? </h3>
 
-If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
-
-▶️ Shoot me an email at rendisagala19@gmail.com for official discussions or Find me on [LinkedIn](https://www.linkedin.com/in/rendi-anjuma-sagala-a3b2421b6/) <br>
+<p align="center">
+<a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rendisagala19@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://rendisagala.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rendisagala.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rendi-anjuma-sagala-a3b2421b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rendi Sagala-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/rendianjuma/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@rendianjuma-blue?style=flat-square&logo=instagram"></a>
+</p>
