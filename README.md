@@ -1,6 +1,6 @@
 <!-- rendisagala -->
 <img src="./src/banner1.png" />
-<h1 align="center">!Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif"></h1>
 <h3 align="center">About Me :</h3>  
  <p>
 📚 Accounting Student.
