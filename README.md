@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-#2080E4?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-2080E4?&style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 <p  align="center">
