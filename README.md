@@ -1,6 +1,6 @@
 <!-- rendisagala -->
 <img src="./src/banner.png" />
-<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="250px"></h1>
+<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="150px"></h1>
 <h3 align="center">About Me :</h3>  
  <p>
 📚 Accounting Student.
