@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/rendi.sagala" target="blank"><img align="center" src="./src/facebook.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="https://github.com/rendisagala" target="blank"><img align="center" src="./src/github.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="javascript:void(0);" target="blank"><img align="center" src="./src/twitter.svg" alt="rendisagala" height="30" width="40" /></a>
-<a href="javascript:void(0);" target="blank"><img align="center" src="./src/discord.svg" alt="rendisagala" height="30" width="40" /></a>
+<a href="https://discord.com/users/973232586014994492" target="blank"><img align="center" src="./src/discord.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="mailto:rendisagala19@gmail.com" target="blank"><img align="center" src="./src/gmail.svg" alt="rendisagala" height="30" width="40" /></a>
 </p>  
 <h3 align="Center">Languages and Tools:</h3>  
