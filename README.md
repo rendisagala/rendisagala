@@ -1,6 +1,6 @@
 <!-- rendisagala -->
 <img src="./src/banner.png" />
-<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="400px"></h1>
+<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="250px"></h1>
 <h3 align="center">About Me :</h3>  
  <p>
 📚 Accounting Student.
@@ -23,13 +23,16 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/NodeJS-07405E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/ExpressJS-4EA94B?style=for-the-badge&logo=express&logoColor=black">
-<img src="https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/NPM-fff?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 <img src="https://img.shields.io/badge/Git-E42020?style=for-the-badge&logo=git&logoColor=black">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-2080E4?&style=for-the-badge&logo=css3&logoColor=white">
 </p>
