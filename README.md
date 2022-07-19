@@ -24,11 +24,10 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rendisagala&show_icons=true&theme=nightowl&locale=en" alt="rendisagala" />
-<br>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendisagala&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="rendisagala" />
 
 </p>
-<br>
 
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
