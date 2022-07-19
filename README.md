@@ -22,7 +22,8 @@
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
 
-<img src="https://img.shields.io/badge/NodeJS-07405E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/NodeJS-0C986E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-07405E?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
@@ -50,6 +51,6 @@
 <p align="center">
 <a href="mailto:syedammarilyas@hotmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-rendisagala19@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://rendisagala.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.rendisagala.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rendi-anjuma-sagala-a3b2421b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rendi Sagala-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rendisagala/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rendi Sagala-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/rendianjuma/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@rendianjuma-blue?style=flat-square&logo=instagram"></a>
 </p>
