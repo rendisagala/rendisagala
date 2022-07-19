@@ -1,12 +1,14 @@
 <!-- rendisagala -->
 <img src="./src/banner.png" />
-<h1 align="center">!Hola👋 <br><img src="https://c.tenor.com/lwScjCRTln8AAAAC/smile-and.gif" width="150px"></h1>
+<h1 align="center">Hi!👋 I am Rendi Sagala</h1>
 <h3 align="center">About Me :</h3>  
  <p>
-📚 Accounting Student.
-<br>💡  JavaScript Enthusiast.
+💼  Full-Stack Developer
+<br>💡  JavaScript Enthusiast
 <br>⭐ Coding
-<br>🖥️ Learning New Things Especially in Tech.
+<br>📚 Accounting Student
+<br>🖥️ Always Keen to learn new things
+<br>🇮🇩 
  </p>
   
 <h3 align="center">Active On :</h3>  
