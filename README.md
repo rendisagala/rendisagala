@@ -14,7 +14,7 @@
 <h3 align="center">Active On :</h3>  
 <p align="center">  
 <a href="https://www.instagram.com/rendianjuma/" target="blank"><img align="center" src="./src/instagram.svg" alt="rendisagala" height="30" width="40" /></a>  
-<a href="https://www.linkedin.com/in/rendi-anjuma-sagala-a3b2421b6/" target="blank"><img align="center" src="./src/linkedin.svg" alt="rendisagala" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/rendisagala" target="blank"><img align="center" src="./src/linkedin.svg" alt="rendisagala" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/rendi.sagala" target="blank"><img align="center" src="./src/facebook.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="https://github.com/rendisagala" target="blank"><img align="center" src="./src/github.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="javascript:void(0);" target="blank"><img align="center" src="./src/twitter.svg" alt="rendisagala" height="30" width="40" /></a>
