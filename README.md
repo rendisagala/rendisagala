@@ -20,7 +20,16 @@
 <a href="javascript:void(0);" target="blank"><img align="center" src="./src/twitter.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="https://discord.com/users/973232586014994492" target="blank"><img align="center" src="./src/discord.svg" alt="rendisagala" height="30" width="40" /></a>
 <a href="mailto:rendisagala19@gmail.com" target="blank"><img align="center" src="./src/gmail.svg" alt="rendisagala" height="30" width="40" /></a>
-</p>  
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rendisagala&show_icons=true&theme=nightowl&locale=en" alt="rendisagala" />
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendisagala&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="rendisagala" />
+
+</p>
+<br>
+
 <h3 align="Center">Languages and Tools:</h3>  
 <p align="center">
 
@@ -40,13 +49,11 @@
 <img src="https://img.shields.io/badge/CSS-2080E4?&style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rendisagala&" alt="rendisagala" />
- 
-</p>
 <h3 align="center">Watch my contribution graph get eaten by the snake🐍:</h3>
 
 ![Snake animation](./src/github-contribution-grid-snake.svg)
+
+<br>
 
 <h3> 🙌 Keen To Interact with Me? </h3>
 
