@@ -1,6 +1,5 @@
 <!-- rendisagala -->
 <img src="./src/banner.png" />
-<h1 align="center">Hi!👋 I am Rendi Sagala</h1>
 <h3 align="center">About Me :</h3>  
  <p>
 💼  Full-Stack Developer
