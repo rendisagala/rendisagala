@@ -2,7 +2,8 @@
 
 <h1>Hi 👋, I'm Rendi</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rendisagala&show_icons=false">
+<img align="right" src="https://github-readme-streak-stats-gilt-rho.vercel.app?user=rendisagala&theme=dark&card_height=190&hide_current_streak=true">
+<img align="right" src="https://readmestats-jet-one.vercel.app/api?username=rendisagala&show_icons=true&theme=dark">
 
 💻 I'm a Full-stack Developer
 
