@@ -9,18 +9,14 @@
 - ⚙️ Stack: `TypeScript`, `Javascript`, `NodeJs`, `ExpressJs`,`MySQL`,`MongoDB`,`Prisma`, `ReactJs`, `React Native`
 - 👨🏼‍💻 I'm currently working as **Backend Developer**
 - 🌱 Always Keen to learn new things
-- 📌 Stay in Pontianak, Indonesia
+- 📫 How to reach me : **rendisagala19@gmail.com**
+- 📌 Indonesia
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rendisagala" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="rendisagala" height="30" width="40" />
-</a>
-<a href="mailto:rendisagala19@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="rendisagala" height="30" width="40" />
-</a>
-<a href="https://www.github.com/rendisagala" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="rendisagala" height="30" width="40" />
-</a>
+<p align="left">
+<a href="https://rendisagala.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="rendisagala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rendisagala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rendisagala" height="30" width="40" /></a>
+</p>
 
 </p>
