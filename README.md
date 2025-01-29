@@ -13,7 +13,14 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rendisagala" target="blank"><img align="center" src="./src/linkedin.svg" alt="rendisagala" height="30" width="40" /></a>
-<a href="mailto:rendisagala19@gmail.com" target="blank"><img align="center" src="./src/gmail.svg" alt="rendisagala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rendisagala" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="rendisagala" height="30" width="40" />
+</a>
+<a href="mailto:rendisagala19@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="rendisagala" height="30" width="40" />
+</a>
+<a href="https://www.github.com/rendisagala" target="_blank">
+  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="rendisagala" height="30" width="40" />
+</a>
 
 </p>
