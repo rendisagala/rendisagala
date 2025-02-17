@@ -3,9 +3,6 @@
 <h1>Hi 👋, I'm Rendi</h1>
 
 <a href="https://github.com/rendisagala" target="_blank">
-<img align="right" src="https://github-readme-streak-stats-gilt-rho.vercel.app?user=rendisagala&theme=dark&card_height=190&hide_current_streak=true">
-</a>
-<a href="https://github.com/rendisagala" target="_blank">
 <img align="right" src="https://readmestats-jet-one.vercel.app/api?username=rendisagala&show_icons=true&theme=dark">
 </a>
 
